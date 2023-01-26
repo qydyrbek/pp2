@@ -1,0 +1,2 @@
+a = "SALEM"
+print(a)

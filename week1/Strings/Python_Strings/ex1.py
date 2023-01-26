@@ -1,0 +1,2 @@
+print("Salem")
+print('Salem')
